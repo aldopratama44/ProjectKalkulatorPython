@@ -16,7 +16,7 @@ Kalkulator ini dapat melakukan operasi dasar:
 
 ## ▶️ Cara Menjalankan
 
-1. Simpan kode sebagai `main.py`
+1. Rename code sebagai `main.py`
 2. Jalankan lewat terminal cmd " bash
 python main.py# 🧮 Kalkulator Sederhana (Python)
 
